@@ -1,0 +1,8 @@
+/* website theme variables */
+:root {
+    --background-color: #F1E5D8;
+}
+
+body{
+    background-color: var(--background-color);
+}
