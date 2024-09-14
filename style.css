@@ -1,8 +1,24 @@
 /* website theme variables */
 :root {
     --background-color: #F1E5D8;
+    --secondary-color: #774937;
+    --tritiary-color: #752F50;
+    --whitishPink-color: #FEF7FC;
 }
 
 body{
     background-color: var(--background-color);
+}
+
+#whiteCard{
+    background-color: white;
+    border-radius: 15px;
+}
+
+#titalImage{
+    border-radius: 15px;
+}
+
+#preperationCard{
+    background-color: var(--whitishPink-color);
 }
